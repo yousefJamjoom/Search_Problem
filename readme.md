@@ -1,0 +1,1 @@
+# This project simulate all the common search problems, it has a map class which generate and randomize an entire map. 
